@@ -36,8 +36,5 @@ In summary, this project involved creating a CNN clone using HTML and CSS. It en
 
 - CSS (Cascading Style Sheets): CSS is a style sheet language used for describing the presentation of a document written in HTML. It was used to style the webpage, including layout, colors, fonts, and responsiveness.
 
-- JavaScript: JavaScript was used to implement the onClick event handler for the hide and show functionality. It allowed for interactivity by enabling elements to be dynamically hidden or shown based on user actions.
 
-The combination of HTML, CSS, and JavaScript forms the core foundation for building interactive and visually appealing web pages.
-
-It's worth noting that this project specifically focused on utilizing HTML and CSS for layout design and responsiveness, with minimal JavaScript usage limited to the onClick event for hiding and showing elements.
+It's worth noting that this project specifically focused on utilizing HTML and CSS for layout design and responsiveness
